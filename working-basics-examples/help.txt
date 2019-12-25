@@ -1,0 +1,8 @@
+
+
+ -Used priory python3 but also python2.7 used to.
+
+####################################################
+# pip3 install opencv-python opencv-contrib-python
+####################################################
+
